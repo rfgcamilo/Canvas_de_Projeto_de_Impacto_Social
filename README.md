@@ -60,6 +60,19 @@ Também nos preocupamos com o planeta: uso de **TI verde**, compressão de mídi
 Quer ver todos os detalhes (Canvas + análise aprofundada)?  
 👉 [Clique aqui para abrir o PDF](https://github.com/rfgcamilo/Canvas_de_Projeto_de_Impacto_Social/blob/ee71294e0fd90a06ece9a63431561ca3759a8a29/EducaDigital%20Projeto.pdf)  
 
+
+## 🤝 Nota de Ética e Transparência
+
+Este projeto foi desenvolvido **em conjunto com o apoio da ferramenta ChatGPT (OpenAI)**, utilizada para:
+
+- Apoiar a **formulação de ideias** e brainstorming sobre soluções de impacto social;  
+- Ajudar na **estruturação do Canvas** e do relatório detalhado;  
+- Auxiliar na **organização do texto** e geração de versões em PDF;  
+
+Todo o conteúdo foi **revisado, adaptado e validado** por mim (Raphael Camilo), de acordo com as orientações da disciplina.  
+
+> O uso de IA foi feito como **ferramenta de apoio** e não substitui a autoria humana nem a responsabilidade acadêmica pelo trabalho.
+
 ---
 
 ✍️ *Aluno: Raphael Camilo – Setembro/2025*  
