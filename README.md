@@ -59,7 +59,7 @@ Também nos preocupamos com o planeta: uso de **TI verde**, compressão de mídi
 
 ## 📄 Relatório Completo
 Quer ver todos os detalhes (Canvas + análise aprofundada)?  
-👉 [Clique aqui para abrir o PDF](Projeto_Impacto_Social_Canvas_Relatorio_v2.pdf)  
+👉 [Clique aqui para abrir o PDF](https://github.com/rfgcamilo/Canvas_de_Projeto_de_Impacto_Social/blob/ee71294e0fd90a06ece9a63431561ca3759a8a29/EducaDigital%20Projeto.pdf)  
 
 ---
 
