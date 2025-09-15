@@ -1,7 +1,6 @@
 # 🌍 Projeto EducaDigital  
 
 Oi! 👋  
-Esse repositório guarda um dos trabalhos mais especiais que desenvolvi durante o curso de **Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul Virtual)**.  
 A missão aqui é simples (e desafiadora): **usar tecnologia para diminuir a desigualdade digital no Brasil**.  
 
 ---
